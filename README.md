@@ -1,7 +1,5 @@
 # Minimal Mistakes remote theme starter
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
 Contains basic configuration to get you a site with:
 
 - Sample posts.
@@ -14,8 +12,32 @@ Contains basic configuration to get you a site with:
 - Sample 404 page.
 - Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Basic Setup
 
+- Install [Git](https://git-scm.com/download/win)
+- Create a folder to store your sites files. For example, `~/Desktop/GitWebsite/`
+- Open the command prompt
+- Navigate to your site folder: `cd /Desktop/GitWebsite/`
+- Clone this repository: `git clone https://github.com/jamessutton1/jamessutton1.github.io.git`
+- Customize files with markdown as needed!
+- Update website with following commands (Run these from the `~/Desktop/GitWebsite/` folder)
+- `git add --all`
+- `git commit -m "some comment"`
+- `git push -u origin master`
+- Your domain, [**jamessutton1.github.io**](https://jamessutton1.github.io/) should be ready in a minute!
+
+[**Markdown refrence**](https://kramdown.gettalong.org/quickref.html)
+[**Documentation**](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+[**Example Files**](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)
+
+## Programming Guide
+
+- All of text is markdown. Use [**Markdown refrence**](https://kramdown.gettalong.org/quickref.html)
+- `_config.yml` sets global site variables
+- `index.html` is homepage settings
+- `_pages/about.md` is about page settings
+- `_posts` contains all posts. The date in file name sets the post's "post date." You can add subfolders to this folder for organization.
+- All images go in `/assets/images/`. Try to keep image size under 2 MB for quick loading. You can also link images. See [post examples] (https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts). When viewing `.md` files, click the Raw button to view it as plaintext code. 
 ---
 
 ## Troubleshooting
