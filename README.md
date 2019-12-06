@@ -41,8 +41,7 @@ Contains basic configuration to get you a site with:
 - `_posts` contains all posts. The date in file name sets the post's "post date." You can add subfolders to this folder for organization.
 - All images go in `/assets/images/`. Try to keep image size under 2 MB for quick loading. You can also link images. See [post examples](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts). When viewing `.md` files in GitHub, click the Raw button to view it as plaintext code. 
 - I added a site icon that appears in the tab on mobile and desktop. If you want to change these, delete all of the image files in the root folder. Create a new image set [Here](https://favicon.io/). Extract the download and copy the photos to the root website directory.
-- Create a new folder named `_includes` in the root with a new file named `custom.html`. Full example path: `~/Desktop/GitWebsite/_includes/custom.html`
-- Paste the html code snippet given by the Favicon generator into this file. Mine was
+- Paste the html code snippet given by the Favicon generator into this file `/_includes/custom.html`. Mine was
 
 ~~~ html
 <!-- start custom head snippets -->
