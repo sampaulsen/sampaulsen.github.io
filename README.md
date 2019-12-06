@@ -27,7 +27,9 @@ Contains basic configuration to get you a site with:
 - Your domain, [**jamessutton1.github.io**](https://jamessutton1.github.io/) should be ready in a minute!
 
 [**Markdown refrence**](https://kramdown.gettalong.org/quickref.html)
+
 [**Documentation**](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+
 [**Example Files**](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)
 
 ## Programming Guide
@@ -37,7 +39,7 @@ Contains basic configuration to get you a site with:
 - `index.html` is homepage settings
 - `_pages/about.md` is about page settings
 - `_posts` contains all posts. The date in file name sets the post's "post date." You can add subfolders to this folder for organization.
-- All images go in `/assets/images/`. Try to keep image size under 2 MB for quick loading. You can also link images. See [post examples] (https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts). When viewing `.md` files, click the Raw button to view it as plaintext code. 
+- All images go in `/assets/images/`. Try to keep image size under 2 MB for quick loading. You can also link images. See [post examples](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts). When viewing `.md` files in GitHub, click the Raw button to view it as plaintext code. 
 ---
 
 ## Troubleshooting
