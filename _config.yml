@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "James Sutton"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : ![Foo](https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/s960x960/61136096_10210957316568652_2346875206909296640_o.jpg?_nc_cat=111&_nc_ohc=VFys4gP0bbsAQkMWieAOD62kgRWR2E5Mymk20nRy92s_CT4NE7SWdM33A&_nc_ht=scontent-dfw5-1.xx&oh=c2b8fb13c10f59bfc08d21879c056734&oe=5E869277)
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location : "Dallas, TX"
   links:
