@@ -78,6 +78,9 @@ author:
 
 footer:
   links:
+    - label: "Untappd"
+      icon: "fab fa-fw fa-untappd"
+      url: "https://untappd.com/MalaiKitchen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_james_sutton_"
