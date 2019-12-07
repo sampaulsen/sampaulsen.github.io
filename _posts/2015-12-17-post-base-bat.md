@@ -9,7 +9,7 @@ tags:
 
 Long time, no write. 
 
-<!--more-->My High Tide is finally ready and drinking great. It pours a nice light yellow<!--more-->, and the torrified wheat lends a nice cloudiness to the brew. The head is nice and creamy as I carbed it up to about 3 volumes.
+My High Tide is finally ready and drinking great. It pours a nice light yellow<!--more-->, and the torrified wheat lends a nice cloudiness to the brew. The head is nice and creamy as I carbed it up to about 3 volumes.
 
 {% capture fig_img %}
 ![High Tide IPA]({{ "/assets/images/tide.JPG" | relative_url }})
