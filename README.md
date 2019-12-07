@@ -14,7 +14,7 @@ Contains basic configuration to get you a site with:
 
 ## Basic Setup
 
-- Install [Git](https://git-scm.com/download/win)
+- Install [Git](https://git-scm.com/download/win). you dont need the GUI or Bash window, but the bash does make branch management easier with pretty colors.
 - Create a folder to store your sites files. For example, `~/Desktop/GitWebsite/`
 - Open the command prompt
 - Navigate to your site folder: `cd /Desktop/GitWebsite/`
