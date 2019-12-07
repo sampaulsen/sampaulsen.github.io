@@ -1,7 +1,7 @@
 ---
 title: "Kegerator & Kettle Souring"
 categories:
-  - blog
+  - Blog
 tags:
   - Brew
 ---

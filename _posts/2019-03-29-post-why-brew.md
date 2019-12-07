@@ -2,9 +2,10 @@
 title: "Why I Brew"
 classes: wide
 categories:
-  - blog
+  - Blog
 tags:
   - Brew
+  - Employment
 ---
 
 I want to take a minute as I’m applying to a bunch of jobs in the beer industry to articulate the reasons why I brew beer, and why I want to make a career out of it. This is partially for myself, partially, for my peers, and partially for any potential employers.
