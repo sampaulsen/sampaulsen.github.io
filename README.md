@@ -40,6 +40,7 @@ Contains basic configuration to get you a site with:
 - `_pages/about.md` is about page settings
 - `_posts` contains all posts. The date in file name sets the post's "post date." You can add subfolders to this folder for organization.
 - All images go in `/assets/images/`. Try to keep image size under 2 MB for quick loading. You can also link images. See [post examples](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts). When viewing `.md` files in GitHub, click the Raw button to view it as plaintext code. 
+- If you can't figure out how to format a type of post, visit [**Here**](https://mmistakes.github.io/minimal-mistakes/year-archive/) for examples (this site is the domain of the documentation being refrenced). Note the final portion of the URL of the post of intrest. Find this name in [this section](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts) of the documentation.
 - I added a site icon that appears in the tab on mobile and desktop. If you want to change these, delete all of the image files in the root folder. Create a new image set [Here](https://favicon.io/). Extract the download and copy the photos to the root website directory.
 - Delete everything and paste the html code snippet given by the Favicon generator into this file `/_includes/custom.html`. Mine was
 
