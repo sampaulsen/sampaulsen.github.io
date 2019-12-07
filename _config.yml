@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "James Sutton"
   avatar : "/assets/images/jsIcon.jpg"
-  bio    : "Texas Ex.  \nBeer appreciator.  \nHead Brewer [@MalaiKitchen](https://twitter.com/malaikitchen)."
+  bio    : "Texas Ex.  \nBeer appreciator.  \nHead Brewer [@MalaiKitchen](https://untappd.com/MalaiKitchen)."
   location : "Dallas, TX"
   links:
     - label: "Untappd"
