@@ -20,7 +20,7 @@ Contains basic configuration to get you a site with:
 - Navigate to your site folder: `cd /Desktop/GitWebsite/`
 - Clone this repository: `git clone https://github.com/jamessutton1/jamessutton1.github.io.git`
 - Customize files with markdown as needed!
-- Update website with following commands (Run these from the `~/Desktop/GitWebsite/` folder)
+- Update website with following git commands (Run these from the `~/Desktop/GitWebsite/jamessutton1.github.io` folder __the root directory of the repository__)
 - `git add --all`
 - `git commit -m "some comment"`
 - `git push -u origin master`

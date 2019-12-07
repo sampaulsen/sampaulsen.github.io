@@ -65,7 +65,10 @@ author:
   links:
     - label: "Untappd"
       icon: "fab fa-fw fa-untappd"
-      url: "https://untappd.com/MalaiKitchen"
+      url: "https://untappd.com/user/J_sutton"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/james-sutton-89105370/"
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/james.alexander.sutton"
@@ -83,7 +86,10 @@ footer:
   links:
     - label: "Untappd"
       icon: "fab fa-fw fa-untappd"
-      url: "https://untappd.com/MalaiKitchen"
+      url: "https://untappd.com/user/J_sutton"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/james-sutton-89105370/"
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/james.alexander.sutton"
