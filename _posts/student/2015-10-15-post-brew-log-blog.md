@@ -1,7 +1,7 @@
 ---
 title: "Brew Log, Meet Brew Blog"
 header:
-  og_image: /assets/images/futurebrewers.jpg
+  teaser: /assets/images/futurebrewers.jpg
 last_modified_at: 2019-12-06T16:20:02-05:00
 categories:
   - Blog
