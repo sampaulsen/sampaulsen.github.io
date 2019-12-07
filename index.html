@@ -6,6 +6,28 @@ header:
   actions:
     - label: "About Me"
       url: "/about/"
+feature_row:
+  - image_path: /assets/images/laststout.JPG
+    alt: "sns tap handle"
+    title: "Why I Brew"
+    excerpt: 'How I find meaning in beer beyond making a living.'
+    url: "/blog/post-why-brew/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/yeastslurry.JPG
+    alt: "sciti"
+    title: "Cool Nights & Coolships"
+    excerpt: 'Documenting experimental batches.'
+    url: "/blog/post-cool-night-ship/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gld.jpg
+    alt: "Gold Medal"
+    title: "Applied Science"
+    excerpt: 'Using a background in chemistry to craft award winning beers.'
+    url: "/blog/post-alcohol-analysis/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row0:
   - image_path: /assets/images/laststout.JPG
     alt: "sns tap handle"
@@ -31,6 +53,8 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row0" type="left" %}
 
