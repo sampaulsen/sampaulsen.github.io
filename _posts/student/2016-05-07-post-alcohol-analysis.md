@@ -1,5 +1,7 @@
 ---
 title: "Higher Alcohol Analysis of Distilled Spirits Using GC-FID"
+header:
+  image: /assets/images/ut16.jpg
 classes: wide
 categories:
   - Blog
