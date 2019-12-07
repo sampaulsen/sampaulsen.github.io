@@ -34,7 +34,8 @@ Contains basic configuration to get you a site with:
 
 ## Programming Guide
 
-- All of text is markdown. Use [**Markdown refrence**](https://kramdown.gettalong.org/quickref.html)
+All of text is markdown. Use [**Markdown refrence**](https://kramdown.gettalong.org/quickref.html).
+`.html` and `.md` files don't use tabs, just two spaces. It will break everything
 - `_config.yml` sets global site variables
 - `index.html` is homepage settings
 - `_pages/about.md` is about page settings
