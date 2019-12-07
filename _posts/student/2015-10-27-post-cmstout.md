@@ -1,5 +1,7 @@
 ---
 title: "Coffee Milk Stout"
+header:
+  og_image: /assets/images/cmsrecipe.png
 categories:
   - Blog
 tags:

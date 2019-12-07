@@ -1,5 +1,7 @@
 ---
 title: "Yeast & Bacteria"
+header:
+  og_image: /assets/images/yeastslurry.JPG
 categories:
   - Blog
 tags:

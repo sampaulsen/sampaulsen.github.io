@@ -1,5 +1,7 @@
 ---
 title: "Post-Grad Brewing"
+header:
+  og_image: /assets/images/blufinal.JPG
 categories:
   - Blog
 tags:

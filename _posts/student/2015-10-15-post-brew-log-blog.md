@@ -1,6 +1,8 @@
 ---
 title: "Brew Log, Meet Brew Blog"
-last_modified_at: 2015-10-15T16:20:02-05:00
+header:
+  og_image: /assets/images/futurebrewers.jpg
+last_modified_at: 2019-12-06T16:20:02-05:00
 categories:
   - Blog
 tags:
