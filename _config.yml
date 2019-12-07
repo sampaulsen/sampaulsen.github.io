@@ -63,6 +63,9 @@ author:
   bio    : "Texas Ex.  \nBeer appreciator.  \nHead Brewer [@MalaiKitchen](https://untappd.com/MalaiKitchen)."
   location : "Dallas, TX"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "james.alexander.sutton@gmail.com"
     - label: "Untappd"
       icon: "fab fa-fw fa-untappd"
       url: "https://untappd.com/user/J_sutton"
@@ -84,6 +87,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "james.alexander.sutton@gmail.com"
     - label: "Untappd"
       icon: "fab fa-fw fa-untappd"
       url: "https://untappd.com/user/J_sutton"
