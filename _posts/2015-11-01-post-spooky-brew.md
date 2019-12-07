@@ -11,7 +11,7 @@ Yesterday, I brewed my High Tide IPA and bottled a cider that I had been sitting
 Danny picked me up early in the morning and we went and ran a bunch of errands (mistake), so we didn't get started brewing until around 4pm, and didn't finish until even later. While Danny started mashing in, I started bottling my cider. After a month of letting this cider ferment, it tastes good to finally try it!
 
 {% capture fig_img %}
-![Juice Comparison]({{ "/assets/images/juicewurt.jpg" | relative_url }})
+![Foo]({{ "/assets/images/juicewurt.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
