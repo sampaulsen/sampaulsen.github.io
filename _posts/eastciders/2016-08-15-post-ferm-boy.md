@@ -1,7 +1,7 @@
 ---
 title: "Ferm Boyz"
 header:
-  og_image: /assets/images/vpale.JPG
+  teaser: /assets/images/vpale.JPG
 categories:
   - Blog
 tags:

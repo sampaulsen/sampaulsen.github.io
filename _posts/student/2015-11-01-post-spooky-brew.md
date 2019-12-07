@@ -1,7 +1,7 @@
 ---
 title: "A ~spooky~ Brewday"
 header:
-  og_image: /assets/images/juicewurt.JPG
+  teaser: /assets/images/juicewurt.JPG
 categories:
   - Blog
 tags:

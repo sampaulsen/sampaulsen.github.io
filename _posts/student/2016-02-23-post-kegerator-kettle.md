@@ -1,7 +1,7 @@
 ---
 title: "Kegerator & Kettle Souring"
 header:
-  og_image: /assets/images/snstaphandle.JPG
+  teaser: /assets/images/snstaphandle.JPG
 categories:
   - Blog
 tags:

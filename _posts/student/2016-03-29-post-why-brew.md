@@ -1,7 +1,7 @@
 ---
 title: "Why I Brew"
 header:
-  og_image: /assets/images/laststout.JPG
+  teaser: /assets/images/laststout.JPG
 classes: wide
 categories:
   - Blog

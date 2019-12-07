@@ -1,7 +1,7 @@
 ---
 title: "One on Base, One at Bat"
 header:
-  og_image: /assets/images/tide.JPG
+  teaser: /assets/images/tide.JPG
 categories:
   - Blog
 tags:
