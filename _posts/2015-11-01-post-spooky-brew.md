@@ -1,134 +1,60 @@
 ---
-title: "Post: Chat"
+title: "A ~spooky~ Brewday"
 categories:
   - Blog
 tags:
-  - chat
-  - Post Formats
+  - Brew
 ---
 
-Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
+Yesterday, I brewed my High Tide IPA and bottled a cider that I had been sitting on for a few weeks. Big thanks to my friend Danny for the help and company!
 
-Costello: Funny names?
+Danny picked me up early in the morning and we went and ran a bunch of errands (mistake), so we didn't get started brewing until around 4pm, and didn't finish until even later. While Danny started mashing in, I started bottling my cider. After a month of letting this cider ferment, it tastes good to finally try it!
 
-Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who's on first, What's on second, I Don't Know is on third--
+{% capture fig_img %}
+![Juice Comparison]({{ "/assets/images/juicewurt.jpg" | relative_url }})
+{% endcapture %}
 
-Costello: That's what I want to find out. I want you to tell me the names of the fellows on the St. Louis team.
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Unfermented apple juice on the left, my cider on the right.</figcaption>
+</figure>
 
-Abbott: I'm telling you. Who's on first, What's on second, I Don't Know is on third--
+As you can see, the cider yeast I used actually fermented the juice so much it lightened the color of it. It also made it taste very wine like, as it fermented out most of the sugar so it tastes very dry with a light body. Just sitting in the fermenter for a month with some CO2 in the headspace gave it a little bit of carbonation so it was pretty good to drink. Onto the brew!
 
-Costello: You know the fellows' names?
+I only got a couple pictures but the brewing went well. Still working out some of the kinks as it was my first time doing brew in a bag but it looks good so far. Check back in 2 weeks for some more notes on the IPA!
 
-Abbott: Yes.
+{% capture fig_img %}
+![water collection]({{ "/assets/images/collect.jpg" | relative_url }})
+{% endcapture %}
 
-Costello: Well, then who's playing first?
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Collecting mash water.</figcaption>
+</figure>
 
-Abbott: Yes.
+{% capture fig_img %}
+![Mash time]({{ "/assets/images/mashing.jpg" | relative_url }})
+{% endcapture %}
 
-Costello: I mean the fellow's name on first base.
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Mashing in.</figcaption>
+</figure>
 
-Abbott: Who.
+{% capture fig_img %}
+![temp controller]({{ "/assets/images/temp.jpg" | relative_url }})
+{% endcapture %}
 
-Costello: The fellow playin' first base.
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Temperature controller bringing my beer down to fermentation temperature.</figcaption>
+</figure>
 
-Abbott: Who.
+{% capture fig_img %}
+![bonus]({{ "/assets/images/dann.jpg" | relative_url }})
+{% endcapture %}
 
-Costello: The guy on first base.
-
-Abbott: Who is on first.
-
-Costello: Well, what are you askin' me for?
-
-Abbott: I'm not asking you--I'm telling you. Who is on first.
-
-Costello: I'm asking you--who's on first?
-
-Abbott: That's the man's name.
-
-Costello: That's who's name?
-
-Abbott: Yes.
-
-Costello: When you pay off the first baseman every month, who gets the money?
-
-Abbott: Every dollar of it. And why not, the man's entitled to it.
-
-Costello: Who is?
-
-Abbott: Yes.
-
-Costello: So who gets it?
-
-Abbott: Why shouldn't he? Sometimes his wife comes down and collects it.
-
-Costello: Who's wife?
-
-Abbott: Yes. After all, the man earns it.
-
-Costello: Who does?
-
-Abbott: Absolutely.
-
-Costello: Well, all I'm trying to find out is what's the guy's name on first base?
-
-Abbott: Oh, no, no. What is on second base.
-
-Costello: I'm not asking you who's on second.
-
-Abbott: Who's on first!
-
-Costello: St. Louis has a good outfield?
-
-Abbott: Oh, absolutely.
-
-Costello: The left fielder's name?
-
-Abbott: Why.
-
-Costello: I don't know, I just thought I'd ask.
-
-Abbott: Well, I just thought I'd tell you.
-
-Costello: Then tell me who's playing left field?
-
-Abbott: Who's playing first.
-
-Costello: Stay out of the infield! The left fielder's name?
-
-Abbott: Why.
-
-Costello: Because.
-
-Abbott: Oh, he's center field.
-
-Costello: Wait a minute. You got a pitcher on this team?
-
-Abbott: Wouldn't this be a fine team without a pitcher?
-
-Costello: Tell me the pitcher's name.
-
-Abbott: Tomorrow.
-
-Costello: Now, when the guy at bat bunts the ball--me being a good catcher--I want to throw the guy out at first base, so I pick up the ball and throw it to who?
-
-Abbott: Now, that's he first thing you've said right.
-
-Costello: I DON'T EVEN KNOW WHAT I'M TALKING ABOUT!
-
-Abbott: Don't get excited. Take it easy.
-
-Costello: I throw the ball to first base, whoever it is grabs the ball, so the guy runs to second. Who picks up the ball and throws it to what. What throws it to I don't know. I don't know throws it back to tomorrow--a triple play.
-
-Abbott: Yeah, it could be.
-
-Costello: Another guy gets up and it's a long ball to center.
-
-Abbott: Because.
-
-Costello: Why? I don't know. And I don't care.
-
-Abbott: What was that?
-
-Costello: I said, I DON'T CARE!
-
-Abbott: Oh, that's our shortstop!
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Bonus: Danny being a goofball while cooling his wort to pitching temps.</figcaption>
+</figure>
