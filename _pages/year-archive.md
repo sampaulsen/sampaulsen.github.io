@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
-permalink: /posts/
+permalink: /collection/
 layout: collection
 collection: portfolio
 entries_layout: grid
