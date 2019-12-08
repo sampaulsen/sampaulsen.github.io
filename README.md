@@ -26,6 +26,8 @@ Contains basic configuration to get you a site with:
 - `git push -u origin master`
 - Your domain, [**jamessutton1.github.io**](https://jamessutton1.github.io/) should be ready in a minute!
 
+You could also edit files directly in the github.com editor like a fucking noob, which requires no setup.
+
 [**Markdown refrence**](https://kramdown.gettalong.org/quickref.html)
 
 [**Documentation**](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
