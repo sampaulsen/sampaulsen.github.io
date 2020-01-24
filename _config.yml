@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: James Sutton
+title: Sam Paulsen
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: _james_sutton_
-github_username: jamessutton1
+twitter_username: samxwitch
+github_username: sampaulsen
 minimal_mistakes_skin: default
 search: true
 
@@ -58,56 +58,53 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "James Sutton"
+  name   : "Sam Paulsen"
   avatar : "/assets/images/jsIcon.jpg"
-  bio    : "Texas Ex.  \nBeer appreciator.  \nHead Brewer [@MalaiKitchen](https://untappd.com/MalaiKitchen)."
-  location : "Dallas, TX"
+  bio    : "Texas Ex.  \nConcert-goer.  \nAdvertiser."
+  location : "Austin, TX"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:james.alexander.sutton@gmail.com"
+      url: "mailto:paulsensam80@gmail.com"
     - label: "Untappd"
       icon: "fab fa-fw fa-untappd"
       url: "https://untappd.com/user/J_sutton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/james-sutton-89105370/"
+      url: "https://www.linkedin.com/in/samuel-paulsen-a80024180/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/james.alexander.sutton"
+      url: "https://www.facebook.com/sam.paulsen1"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_james_sutton_"
+      url: "https://twitter.com/samxwitch"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+#      url: "https://www.instagram.com/sam_paulsen/"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:james.alexander.sutton@gmail.com"
-    - label: "Untappd"
-      icon: "fab fa-fw fa-untappd"
-      url: "https://untappd.com/user/J_sutton"
+      url: "mailto:paulsensam80@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/james-sutton-89105370/"
+      url: "https://www.linkedin.com/in/samuel-paulsen-a80024180/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/james.alexander.sutton"
+      url: "https://www.facebook.com/sam.paulsen1"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_james_sutton_"
+      url: "https://twitter.com/samxwitch"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+#      url: "https://www.instagram.com/sam_paulsen/"
 
 defaults:
   # _posts
