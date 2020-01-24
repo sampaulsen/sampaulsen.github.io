@@ -66,9 +66,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:paulsensam80@gmail.com"
-    - label: "Untappd"
-      icon: "fab fa-fw fa-untappd"
-      url: "https://untappd.com/user/J_sutton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-paulsen-a80024180/"
@@ -81,9 +78,9 @@ author:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://www.instagram.com/sam_paulsen/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/sam_paulsen/"
 
 footer:
   links:
@@ -102,9 +99,9 @@ footer:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://www.instagram.com/sam_paulsen/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/sam_paulsen/"
 
 defaults:
   # _posts
